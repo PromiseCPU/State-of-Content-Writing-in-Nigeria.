@@ -47,7 +47,8 @@ Kaggle Raw Dataset: [Visit Dataset](https://github.com/PromiseCPU/State-of-Conte
 
 Restructured Raw Dataset: [Visit Dataset](https://github.com/PromiseCPU/State-of-Content-Writing-in-Nigeria./blob/28a4d22fd6948b4939d8218c29d9dc5808c4db1a/nigeria_content_writers_clean.csv)
 
-SQL Written Codes: [Visit SQL Codes](
+SQL Written Codes: [Visit SQL Codes](https://github.com/PromiseCPU/State-of-Content-Writing-in-Nigeria./blob/a700464c578d1ca205d77a735250d4a939bb272e/SQL%20Project%2C%20State%20of%20Content%20Writing.sql)
+
 ### Dataset Summary: 
 Total responses collected - 103 raw responses
 Total Variables (Columns) - 24 fields across demographics, behaviors, and open-texts.
