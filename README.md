@@ -138,7 +138,7 @@ All visualizations were built in Microsoft Excel following the SQL analysis phas
 ![image alt](https://github.com/PromiseCPU/State-of-Content-Writing-in-Nigeria./blob/f1f907bf42bfa72e243b568d46e0057d23662db3/Dash2.png)
 
 ### Dashboard 2
-! [image alt](https://github.com/PromiseCPU/State-of-Content-Writing-in-Nigeria./blob/88df45abde8a1b208e5d83c03938eafd5a972eaf/Dash1.png)
+![image alt](https://github.com/PromiseCPU/State-of-Content-Writing-in-Nigeria./blob/68283706ee887a9682154a51845dec96d922d3dc/Dash1.png)
 
 ## Key Insights:
 The following insights represent the most significant and actionable findings from the full analysis:
