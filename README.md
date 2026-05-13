@@ -13,11 +13,11 @@ November 2024 - January 2025.
 ## Problem Statement:
 Despite the growing demand for digital content globally and Nigeria's emergence as a significant contributor to the global content economy, Nigerian content writers continue to face structural, financial, and professional challenges that limit their earning potential, career growth, and professional recognition.
 This report addresses five core problem areas identified from the data:
-Income Gap: About 31% of surveyed writers earn below ₦200,000 per month, suggesting that a significant portion of the workforce remains underpaid relative to their output and skill levels.
-Client Acquisition Difficulty: Finding high-paying clients is cited as the number-one challenge by 77.1% of respondents, making this the most critical pain point in the industry.
-AI Disruption Anxiety: Although AI tools are widely adopted, 11.4% of writers cite competition from AI as a challenge. Additionally, writers who integrate AI heavily into their workflow do not consistently earn more, pointing to an unresolved tension between AI productivity and income outcomes.
-Infrastructural Barriers: Connectivity issues and power outages affect 20% of writers, highlighting the role of Nigeria's infrastructure deficit in limiting professional performance.
-Career Uncertainty: 14.3% of writers said they would NOT choose content writing again today, and 20% remain undecided, signaling a meaningful level of career dissatisfaction that the community must address.
+* Income Gap: About 31% of surveyed writers earn below ₦200,000 per month, suggesting that a significant portion of the workforce remains underpaid relative to their output and skill levels.
+* Client Acquisition Difficulty: Finding high-paying clients is cited as the number-one challenge by 77.1% of respondents, making this the most critical pain point in the industry.
+* AI Disruption Anxiety: Although AI tools are widely adopted, 11.4% of writers cite competition from AI as a challenge. Additionally, writers who integrate AI heavily into their workflow do not consistently earn more, pointing to an unresolved tension between AI productivity and income outcomes.
+* Infrastructural Barriers: Connectivity issues and power outages affect 20% of writers, highlighting the role of Nigeria's infrastructure deficit in limiting professional performance.
+* Career Uncertainty: 14.3% of writers said they would NOT choose content writing again today, and 20% remain undecided, signaling a meaningful level of career dissatisfaction that the community must address.
 
 ## Tools Used:
 ### MS Excel:
