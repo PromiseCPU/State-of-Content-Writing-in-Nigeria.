@@ -45,7 +45,9 @@ The survey dataset was collected from Kaggle via a structured online form survey
 
 Kaggle Raw Dataset: [Visit Dataset](https://github.com/PromiseCPU/State-of-Content-Writing-in-Nigeria./blob/0888f5be4a4106b8163e4b67d6c6a069ee1b296e/State%20of%20Content%20Writing%20in%20Nigeria%20.csv)
 
+Restructured Raw Dataset: [Visit Dataset](https://github.com/PromiseCPU/State-of-Content-Writing-in-Nigeria./blob/28a4d22fd6948b4939d8218c29d9dc5808c4db1a/nigeria_content_writers_clean.csv)
 
+SQL Written Codes: [Visit SQL Codes](
 ### Dataset Summary: 
 Total responses collected - 103 raw responses
 Total Variables (Columns) - 24 fields across demographics, behaviors, and open-texts.
