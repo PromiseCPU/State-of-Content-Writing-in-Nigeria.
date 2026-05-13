@@ -185,5 +185,17 @@ Plan for the 4-Year Transition: Writers approaching the 4-year mark should proac
 Use AI as a Force Multiplier, Not a Replacement.
 
 ### For Businesses and Employers:
-Address the Gender Income Gap: No female writers in the survey reached the highest income bracket. Businesses should actively audit whether their hiring and rate-setting practices inadvertently disadvantage female writers, and take corrective action.
-Invest in Writer Development: The high prevalence of the 'finding high-paying clients' challenge is partly a supply-chain
+Address the Gender Income Gap: No female writers in the survey reached the highest income bracket. Businesses should actively audit whether their hiring and rate-setting practices inadvertently disadvantage female writers, and take corrective action.problem for employers too. A writer community struggling financially is less stable and less invested. Offering fair, transparent rates and regular work pipelines benefits both parties.
+Recognize Nigerian Writers for International Work: The data shows Nigerian writers are producing content for international companies. Ensuring that payment systems (Wise, Payoneer, Stripe) are accessible and that contracts are clear will reduce payment issues.
+
+### For Content Writing Communities:
+Build Structured Mentorship Programs: The experience-to-income gap is most painful in the 0–2 and 2–4 year bands. Community-led mentorship, where writers with 6+ years guide early-career members, would directly address the most critical phase of career development.
+Create Transparent Rate Benchmarks: Publishing community-wide rate guides (similar to ACES salary surveys) would reduce information asymmetry and help writers negotiate from a position of data rather than guesswork.
+Host Regular AI Literacy Workshops: Given that 11.4% of writers fear AI competition, proactive community education on AI tool integration - not just as threat mitigation, but as productivity enhancement - would help the whole ecosystem level up.
+Expand Geographic Representation: Lagos dominates this survey. Future community initiatives and surveys should deliberately amplify voices from Port Harcourt, Abuja, Ibadan, and smaller cities, where writers may face different market conditions and infrastructure challenges.
+
+## For Future Research:
+Longitudinal Study: A follow-up survey of the same respondents in 12–24 months would reveal whether income trajectories, AI adoption patterns, and career sentiments are changing over time.
+Niche-Level Deep Dives: Future research should explore whether SaaS writers, Finance writers, and Healthcare writers have meaningfully different career experiences, rate structures, and client acquisition strategies.
+
+
