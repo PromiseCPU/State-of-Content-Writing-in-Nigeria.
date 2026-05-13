@@ -196,7 +196,7 @@ Use AI as a Force Multiplier, Not a Replacement.
 * Host Regular AI Literacy Workshops: Given that 11.4% of writers fear AI competition, proactive community education on AI tool integration - not just as threat mitigation, but as productivity enhancement - would help the whole ecosystem level up.
 * Expand Geographic Representation: Lagos dominates this survey. Future community initiatives and surveys should deliberately amplify voices from Port Harcourt, Abuja, Ibadan, and smaller cities, where writers may face different market conditions and infrastructure challenges.
 
-## For Future Research:
+### For Future Research:
 * Longitudinal Study: A follow-up survey of the same respondents in 12–24 months would reveal whether income trajectories, AI adoption patterns, and career sentiments are changing over time.
 * Niche-Level Deep Dives: Future research should explore whether SaaS writers, Finance writers, and Healthcare writers have meaningfully different career experiences, rate structures, and client acquisition strategies.
 
