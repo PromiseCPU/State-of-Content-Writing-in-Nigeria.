@@ -133,7 +133,12 @@ The final deliverables (SQL script, cleaned CSV, Excel workbook, and this report
 
 ## Visualization/ Dashboard (snipping tool):
 All visualizations were built in Microsoft Excel following the SQL analysis phase. The Excel dashboard is organized into themed tabs, each corresponding to a KPI group.
+
+### Dashboard 1
 ![image alt](https://github.com/PromiseCPU/State-of-Content-Writing-in-Nigeria./blob/f1f907bf42bfa72e243b568d46e0057d23662db3/Dash2.png)
+
+### Dashboard 2
+! [image alt](https://github.com/PromiseCPU/State-of-Content-Writing-in-Nigeria./blob/88df45abde8a1b208e5d83c03938eafd5a972eaf/Dash1.png)
 
 ## Key Insights:
 The following insights represent the most significant and actionable findings from the full analysis:
